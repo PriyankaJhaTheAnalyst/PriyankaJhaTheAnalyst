@@ -2,9 +2,9 @@
 <h3 align="center">A Google-certified Data Analyst aka 'Data Detective' with a penchant for crunching numbers.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🔭 I’m currently working on **creating portfolio projects for a Data Analyst role.**
+- 🔭 I’m currently working on **completing my Coursera Programming Courses on Python and R.**
 
-- 🌱 I’m currently learning **SQL and Python.**
+- 🌱 I’m currently learning **R and Python.**
 
 - 📫 How to reach me **priyanka.jha.social@gmail.com**
 
