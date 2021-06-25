@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyanka Jha The Analyst.</h1>
+<h1 align="center">Hi 👋, I'm Priyanka Jha.</h1>
 <h3 align="center">A Google-certified Data Analyst and a Data Detective with a penchant for crunching numbers.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
