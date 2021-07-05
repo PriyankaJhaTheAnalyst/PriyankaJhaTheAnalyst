@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Tableau, PowerBI, Microsoft Excel and SQL.**
 
-- 📫 How to reach me **priyanka.jha.social@gmail.com**
+- 📫 Email at me **priyanka.jha.social@gmail.com**
 
 - ⚡ Fun fact **I LOVE STAR WARS!**
 
