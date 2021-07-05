@@ -8,11 +8,11 @@
 
 - 👨‍💻 My Tableau projects are available at [https://public.tableau.com/profile/priyanka8381#!/](https://public.tableau.com/profile/priyanka8381#!/)
 
-- 💬 Ask me about **Tableau, PowerBI, Microsoft Excel and SQL.**
+- 💬 Ask me anything about **Tableau, PowerBI, Microsoft Excel and SQL.**
 
 - 📫 Email at me **priyanka.jha.social@gmail.com**
 
-- ⚡ Fun fact **A year on Mercury takes 88 Earth days.**
+- ⚡ Fun fact: **A year on Mercury takes 88 Earth days.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
