@@ -12,7 +12,7 @@
 
 - 📫 Email at me **priyanka.jha.social@gmail.com**
 
-- ⚡ Fun fact **I LOVE STAR WARS!**
+- ⚡ Fun fact **A year on Mercury takes 88 Earth days.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
