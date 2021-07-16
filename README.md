@@ -6,7 +6,8 @@
 
 - 🌱 I’m currently learning **R and Python.**
 
-- 👨‍💻 My Tableau Portfolio Projects are available at [https://public.tableau.com/app/profile/priyankajhatheanalyst](https://public.tableau.com/app/profile/priyankajhatheanalyst)
+- 👨‍💻 My Tableau Portfolio Projects are available at
+-  [https://public.tableau.com/app/profile/priyankajhatheanalyst](https://public.tableau.com/app/profile/priyankajhatheanalyst)
 
 - 💬 Ask me anything about **Tableau, PowerBI, Microsoft Excel and SQL.**
 
