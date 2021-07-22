@@ -2,11 +2,13 @@
 <h3 align="center">A Google-certified Data Analyst and a Data Detective with a penchant for crunching numbers.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🔭 I’m currently working on **completing my Coursera Programming Courses on Python and R.**
+- 🔭 I’m currently working on **learning more about Python libraries: NumPy, Pandas, Matplot Lib**
 
 - 📝 My Portfolio/Resume Website are at: [My Website](https://editor.wix.com/html/editor/web/renderer/edit/eed66764-a27b-4767-af88-fe1ea08907d8?metaSiteId=703414f4-4c66-45f4-aef7-c80af5ff142b&editorSessionId=C0739902-FCF6-4775-3509-BED893D9BEA5&templateId=7e761c3c-729b-4d4e-9dc3-a8242c486f56)
 
-- 👨‍💻 My **Tableau** Portfolio Projects are at: [Tableau Public Profile](https://public.tableau.com/app/profile/priyankajhatheanalyst)
+- 🌱 My **SQL & Python** projects are at: [Portfolio Projects Repository](https://github.com/PriyankaJhaTheAnalyst/Portfolio-Projects)
+
+- 👨‍💻 My **Tableau** Portfolio projects are at: [Tableau Public Profile](https://public.tableau.com/app/profile/priyankajhatheanalyst)
 
 - 💬 Ask me anything about **SQL, Python, Tableau, PowerBI, Microsoft Excel and R.**
 
