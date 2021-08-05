@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **learning more about Python libraries: NumPy, Pandas, Matplotlib, Seaborn**
 
-- 📝 My Portfolio/Resume Website are at: [www.priyankajha.com](www.priyankajha24.wixsite.com)
+- 📝 My Portfolio/Resume Website are at: [www.priyankajha24.wixsite.com](www.priyankajha24.wixsite.com)
 
 - 🌱 My **SQL & Python** projects are at: [SQL-Python Projects Repo.](https://github.com/PriyankaJhaTheAnalyst/Portfolio-Projects)
 
