@@ -1,4 +1,3 @@
-
 <img src="https://drive.google.com/uc?export=view&id=1CAMDliFVQ_wKYQFen1ZLJziImIPnXcmY" width="840" height="240" allow="autoplay">
 <h1 align="center">Hi 👋, I'm Priyanka Jha.</h1>
 <h3 align="center">A Google-certified Data Analyst and a Data Detective with a penchant for crunching numbers.</h3>
@@ -6,7 +5,7 @@
 
 - 🔭 I’m currently working on **learning more about Python libraries: NumPy, Pandas, Matplotlib, Seaborn**
 
-- 📝 My Portfolio/Resume Website are at: [www.priyankajha.com](https://editor.wix.com/html/editor/web/renderer/edit/eed66764-a27b-4767-af88-fe1ea08907d8?metaSiteId=703414f4-4c66-45f4-aef7-c80af5ff142b&editorSessionId=C0739902-FCF6-4775-3509-BED893D9BEA5&templateId=7e761c3c-729b-4d4e-9dc3-a8242c486f56)
+- 📝 My Portfolio/Resume Website are at: [www.priyankajha.com](www.priyankajha24.wixsite.com)
 
 - 🌱 My **SQL & Python** projects are at: [SQL-Python Projects Repo.](https://github.com/PriyankaJhaTheAnalyst/Portfolio-Projects)
 
