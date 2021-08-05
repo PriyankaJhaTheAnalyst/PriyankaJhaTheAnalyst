@@ -1,4 +1,5 @@
-<img src="https://drive.google.com/file/d/1CAMDliFVQ_wKYQFen1ZLJziImIPnXcmY/preview" width="640" height="480" allow="autoplay">
+
+<img src="https://drive.google.com/uc?export=view&id=1CAMDliFVQ_wKYQFen1ZLJziImIPnXcmY" width="640" height="480" allow="autoplay">
 <h1 align="center">Hi 👋, I'm Priyanka Jha.</h1>
 <h3 align="center">A Google-certified Data Analyst and a Data Detective with a penchant for crunching numbers.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
