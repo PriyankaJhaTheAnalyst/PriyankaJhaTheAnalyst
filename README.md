@@ -3,7 +3,7 @@
 <h3 align="center">A Google-certified Data Analyst and a Data Detective with a penchant for crunching numbers.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🔭 Learn **Python Libraries: NumPy, Pandas, Matplotlib, Seaborn** from [Python Libraries Tutorials](https://github.com/PriyankaJhaTheAnalyst/PythonLibrariesTutorials)
+- 🔭 Learn **Python Libraries: NumPy, Pandas, Matplotlib, Seaborn** from: [My Python Libraries Tutorials](https://github.com/PriyankaJhaTheAnalyst/PythonLibrariesTutorials)
 
 - 📝 My Portfolio/Resume Website are at: [www.priyankajha24.wixsite.com](www.priyankajha24.wixsite.com)
 
