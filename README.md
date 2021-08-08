@@ -5,7 +5,7 @@
 
 - 🔭 Learn **Python Libraries: NumPy, Pandas, Matplotlib, Seaborn** from: [My Python Libraries Tutorials](https://github.com/PriyankaJhaTheAnalyst/PythonLibrariesTutorials)
 
-- 📝 My **Portfolio/Resume** Website are at: [www.priyankajha24.wixsite.com](www.priyankajha24.wixsite.com)
+- 📝 My **Portfolio/Resume** Website are at: [www.priyankajha24.wixsite.com](https://priyankajha24.wixsite.com/aboutme)
 
 - 🌱 My **Portfolio Projects** are at: [Portfolio Projects Repository](https://github.com/PriyankaJhaTheAnalyst/Portfolio-Projects)
 
