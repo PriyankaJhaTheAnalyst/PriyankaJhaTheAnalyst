@@ -7,9 +7,9 @@
 
 - 📝 My **Portfolio/Resume** Website are at: [www.priyankajha24.wixsite.com](https://priyankajha24.wixsite.com/aboutme)
 
-- 🌱 My **Portfolio Projects** are at: [Portfolio Projects Repository](https://github.com/PriyankaJhaTheAnalyst/Portfolio-Projects)
+- 🌱 My **Portfolio Projects** are at: [Projects Repo.](https://github.com/PriyankaJhaTheAnalyst/Portfolio-Projects)
 
-- 👨‍💻 My **Tableau** Portfolio projects are at: [Tableau Public Profile](https://public.tableau.com/app/profile/priyankajhatheanalyst)
+- 👨‍💻 My **Tableau** Projects are at: [Tableau Public Profile](https://public.tableau.com/app/profile/priyankajhatheanalyst)
 
 - 💬 Ask me anything about **SQL, Python, Tableau, PowerBI, Microsoft Excel and R.**
 
