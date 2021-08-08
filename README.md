@@ -5,17 +5,17 @@
 
 - 🔭 Learn **Python Libraries: NumPy, Pandas, Matplotlib, Seaborn** from: [My Python Libraries Tutorials](https://github.com/PriyankaJhaTheAnalyst/PythonLibrariesTutorials)
 
-- 📝 My **Portfolio/Resume** Website are at: [www.priyankajha24.wixsite.com](https://priyankajha24.wixsite.com/aboutme)
+- 📝 Take a look at my **Personal** Website: [www.priyankajha24.wixsite.com](https://priyankajha24.wixsite.com/aboutme)
 
-- 🌱 My **Portfolio Projects** are at: [Projects Repo.](https://github.com/PriyankaJhaTheAnalyst/Portfolio-Projects)
+- 🌱 My **Portfolio Projects** are in: [Projects Repo.](https://github.com/PriyankaJhaTheAnalyst/Portfolio-Projects)
 
-- 👨‍💻 My **Tableau** Projects are at: [Tableau Public Profile](https://public.tableau.com/app/profile/priyankajhatheanalyst)
+- 👨‍💻 My **Tableau** Projects are on: [Tableau Public Profile](https://public.tableau.com/app/profile/priyankajhatheanalyst)
 
-- 💬 Ask me anything about **SQL, Python, Tableau, PowerBI, Microsoft Excel and R.**
+- 📄 Know about my experiences : [Downlaod my Resume] ()
 
 - 📫 Email me at: **priyanka.jha.social@gmail.com**
 
-- ⚡ Fun fact: **A year on Mercury takes 88 Earth days.**
+- ⚡ Fun fact: **A year on Mercury takes 88 Earth days.🌏**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
