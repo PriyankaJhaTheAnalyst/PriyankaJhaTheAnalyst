@@ -11,8 +11,6 @@
 
 - 👨‍💻 My **Tableau** Projects are on: [Tableau Public Profile](https://public.tableau.com/app/profile/priyankajhatheanalyst)
 
-- 📄 Know about my experiences : [Downlaod my Resume] ()
-
 - 📫 Email me at: **priyanka.jha.social@gmail.com**
 
 - ⚡ Fun fact: **A year on Mercury takes 88 Earth days.🌏**
