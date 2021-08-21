@@ -7,9 +7,9 @@
 
 - 📝 Take a look at my **Personal** Website: [www.priyankajha24.wixsite.com](https://priyankajha24.wixsite.com/aboutme)
 
-- 🌱 My **Portfolio Projects** are in: [Projects Repo.](https://github.com/PriyankaJhaTheAnalyst/Portfolio-Projects)
+- 🌱 My **Portfolio Projects** are in: [Data Analyst Projects Repo.](https://github.com/PriyankaJhaTheAnalyst/Portfolio-Projects)
 
-- 👨‍💻 My **Tableau** Projects are on: [Tableau Public Profile](https://public.tableau.com/app/profile/priyankajhatheanalyst)
+- 👨‍💻 My **Tableau** Projects are at: [Priyanka Jha - Tableau Public](https://public.tableau.com/app/profile/priyankajhatheanalyst)
 
 - 📫 Email me at: **priyanka.jha.social@gmail.com**
 
