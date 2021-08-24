@@ -13,7 +13,7 @@
 
 - 📫 Email me at: **priyanka.jha.social@gmail.com**
 
-- ⚡ Fun Fact: **The most life-changing book for me is Bhagwad Gita. **
+- ⚡ Fun Fact: **The most life-changing book for me is Bhagwad Gita.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
