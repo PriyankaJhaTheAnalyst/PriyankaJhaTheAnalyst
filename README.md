@@ -3,7 +3,7 @@
 <h3 align="center">A Data Detective with a penchant for crunching numbers and believes in Data for Good.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🔭 Learn **Python Libraries: NumPy, Pandas, Matplotlib, Seaborn** from: [My Python Libraries Tutorials](https://github.com/PriyankaJhaTheAnalyst/PythonLibrariesTutorials)
+- 🔭 Learn **Python Libraries: pandas, numpy, matplotlib, seaborn, plotly, cufflinks, BeautifulSoup, DateTime.** from: [My Python Libraries Tutorials](https://github.com/PriyankaJhaTheAnalyst/PythonLibrariesTutorials)
 
 - 📝 Take a look at my **Personal** Website: [www.priyankajha24.wixsite.com](https://priyankajha24.wixsite.com/aboutme)
 
@@ -13,7 +13,7 @@
 
 - 📫 Email me at: **priyanka.jha.social@gmail.com**
 
-- ⚡ Fun fact: **A year on Mercury takes 88 Earth days.🌏**
+- ⚡ Fun Fact: **The most life-changing book for me is Bhagwad Gita. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
