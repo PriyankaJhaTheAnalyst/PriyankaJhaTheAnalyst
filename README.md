@@ -5,7 +5,7 @@
 
 - 🔭 Learn **Python Libraries: pandas, numpy, matplotlib, seaborn, plotly, cufflinks, BeautifulSoup, DateTime.** from: [My Python Libraries Tutorials](https://github.com/PriyankaJhaTheAnalyst/PythonLibrariesTutorials)
 
-- 📝 Take a look at my **Personal** Website: [www.priyankajha24.wixsite.com](https://priyankajha24.wixsite.com/aboutme)
+- 📝 Take a look at my **Personal** Website: [www.priyanka-jha.com](https://www.priyanka-jha.com/)
 
 - 🌱 My **Portfolio Projects** are in: [Data Analyst Projects Repo.](https://github.com/PriyankaJhaTheAnalyst/Portfolio-Projects)
 
